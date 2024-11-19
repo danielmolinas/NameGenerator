@@ -99,6 +99,7 @@ else:
 
 ## UML Sequence Diagram
 
-![UML Diagram Microservice A](https://github.com/user-attachments/assets/194542a6-83b3-40ae-b45d-b4c28a5ca489)
+
+![UML Diagram Microservice A](https://github.com/user-attachments/assets/9b4c7065-cab4-419d-b718-827f19b4e8ee)
 
 
