@@ -16,6 +16,7 @@ To request data from the Name Generator Microservice, make an HTTP POST request 
   - `male`
   - `female`
   - `unisex`
+  - `random`
 
 #### Example Request
 
